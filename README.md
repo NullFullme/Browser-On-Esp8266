@@ -1,1 +1,6 @@
-# LearnByMyself
+  项目实现：
+
+  - [x] ESP8266 实现网页访问并输出信息
+  - [x] ESP8266 实现将信息存储到Flash并读取
+  - [x] ESP8266 实现带cookies的访问
+  - [x] ESP8266 初步实现项目
